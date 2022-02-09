@@ -1,7 +1,7 @@
-# compilers-2-project-team-7-aug21
-compilers-2-project-team-7-aug21 created by GitHub Classroom
 
-#### Chimico
+### Special thanks to [Uppala Sehouriey](https://github.com/Sehouriey) and [Ambati Sanjay Krishna](https://github.com/Sanjaykrish3009) for making this possible.
+
+# Chimico
 
 Chimico is a language predominantly built for chemists. It is built to assist
 the operations like stoichiometric calculations, Redox reactions and ElectroChemistry. It is a structural programming language with syntax similar to C. Also, It is a statically typed language, variables should be defined explicitly.
