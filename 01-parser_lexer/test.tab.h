@@ -54,3 +54,4 @@
 #define STRING_CONST 52 //string input
 #define ATOMIC_WT 53    // Atomic weight of elements
 #define ATOMIC_NO 54    // Atomic numbers of elements
+
